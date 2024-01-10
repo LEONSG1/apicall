@@ -1,0 +1,33 @@
+{
+  "flights": [
+    {
+      "id": "L1",
+      "flight_number": "JT123",
+      "departure_airport": "CGK",
+      "arrival_airport": "DPS",
+      "departure_time": "2024-01-15T08:00:00Z",
+      "arrival_time": "2024-01-15T11:30:00Z",
+      "duration": "03:30",
+      "aircraft": "Boeing 737",
+      "price": 500000,
+      "availability": 120,
+      "class": "Economy",
+      "transits": 0
+    },
+    {
+      "id": "L2",
+      "flight_number": "JT456",
+      "departure_airport": "DPS",
+      "arrival_airport": "CGK",
+      "departure_time": "2024-01-16T09:45:00Z",
+      "arrival_time": "2024-01-16T13:15:00Z",
+      "duration": "03:30",
+      "aircraft": "Airbus A320",
+      "price": 600000,
+      "availability": 85,
+      "class": "Business",
+      "transits": 0
+    },
+    // ... data penerbangan lainnya
+  ]
+}
